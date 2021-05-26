@@ -1,1 +1,21 @@
 This repository contains code for various data structures and algorithms
+- Heap
+- Stack
+- Queue
+- Trie
+- Singly Linked List
+- Doubly Linked List
+- Binary Search Tree
+- Tree Traversal
+- Disjoint Set - Union Find
+- Binary Search
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+- Merge Sort
+- Quick Sort
+- Bloom Filter
+- LRU Cache
+- LFU Cache
+- Topological Sort - Acyclic Directed Graph (DAG) 
+- Dijkstra's Algorithm
+- Prim's Algorithm (Minimum Spanning Tree)
